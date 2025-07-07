@@ -6,7 +6,7 @@ import java.util.List;
 
 
 
-public class ArraySortReverse {
+public class ReverseArray {
 
     public static void main(String[] args) {
 
