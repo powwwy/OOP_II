@@ -1,4 +1,4 @@
-public class Sum{
+public class SumRecursion{
   public static int sum(int n){
     if (n == 1){
       return 1;
